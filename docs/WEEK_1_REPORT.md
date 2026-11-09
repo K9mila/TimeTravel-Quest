@@ -1,4 +1,3 @@
-<img width="2128" height="806" alt="image" src="https://github.com/user-attachments/assets/e7fd7ae9-734e-4b7e-95c1-bd77f80f21ef" /># Отчет за първата седмица
 Проект: TimeTravel Quest — Счупеният архив
 Период: Седмица 1, предаване до 14.11.2026 г.
 Участници: Мила Камбурова и Дениз Гьогебакан
