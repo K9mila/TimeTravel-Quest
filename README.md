@@ -7,7 +7,6 @@
 Участник B: **Дениз Гьогебакан — https://github.com/Denuzthenig**
 Хранилище: **https://github.com/K9mila/TimeTravel-Quest**
 GitHub Issues: **https://github.com/K9mila/TimeTravel-Quest/issues**
-GitHub Project: **[действителен URL]**
 Демо: **няма работеща игра на този етап; налични са статични макети**.
 
 Цел: чрез исторически задачи и работа със следи учениците да упражняват разпознаване на контекст и хронологична последователност.
