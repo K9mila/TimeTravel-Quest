@@ -4,7 +4,7 @@
 
 Екип: **[попълнете име на екипа]**
 Участник A: **Мила Камбурова — https://github.com/K9mila**
-Участник B: **Дениз Гьогебакан — [GitHub профил]**
+Участник B: **Дениз Гьогебакан — https://github.com/Denuzthenig**
 Хранилище: **https://github.com/K9mila/TimeTravel-Quest**
 GitHub Issues: **https://github.com/K9mila/TimeTravel-Quest/issues**
 GitHub Project: **[действителен URL]**
