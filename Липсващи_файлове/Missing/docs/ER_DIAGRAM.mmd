@@ -1,0 +1,11 @@
+erDiagram
+    AUTH_USERS ||--o| PROFILES : owns
+    PROFILES ||--o{ PLAYER_PROGRESS : tracks
+    ERAS ||--o{ PLAYER_PROGRESS : has
+    ERAS ||--o{ EVENTS : contains
+    ERAS ||--o{ QUESTS : contains
+    ERAS ||--o| ARTIFACTS : rewards
+    PROFILES ||--o{ QUEST_PROGRESS : solves
+    QUESTS ||--o{ QUEST_PROGRESS : records
+    PROFILES ||--o{ INVENTORY : owns
+    ARTIFACTS ||--o{ INVENTORY : collected
